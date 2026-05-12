@@ -1,0 +1,13 @@
+
+
+Python	
+
+Tkinter	
+
+NetworkX
+	
+Heapq	
+
+Random
+
+matplotlib
